@@ -1,0 +1,3 @@
+console.log(Llydo1)
+const Llydo1 = await ethers.getContract("Llydo1Token")
+hehe
